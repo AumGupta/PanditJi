@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "921249228922",
+    "project_id": "panditji-c9ec5",
+    "storage_bucket": "panditji-c9ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921249228922:android:5c0340bead30a657adb3c3",
+        "android_client_info": {
+          "package_name": "com.theist.panditji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921249228922-kfma9oos8565o8g2putmv2m2tkhii1u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theist.panditji",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "921249228922-0elqthincuphubg6vleiti3dphuoid6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePlmmH4MksFJrQIRGN1bjfot4w9d7ti8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921249228922-0elqthincuphubg6vleiti3dphuoid6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921249228922-fh5loe1jt8nt3rs86p2c24roeemnd5c3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theist.panditji"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
