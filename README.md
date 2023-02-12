@@ -1,31 +1,21 @@
 # PanditJi
 
-A new Flutter project.
+**One stop solution for Hindu rituals**
+
+A modern solution bridging the cultural and religious gap. A powerful tool in your pocket that caters the need of someone experienced you require to guide you through your rituals and assist you.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Download the [latest](https://github.com/AumGupta/PanditJi/releases/latest) release and install it on your Android phone.
 
-### IMPORTANT:
+## Working Demonstration
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+[![Demo](https://img.youtube.com/vi/-TzyAkzPVPM/0.jpg)](https://www.youtube.com/watch?v=-TzyAkzPVPM)
 
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
+## Repository for the backend API
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
+https://github.com/manav2511/panditji_backend/
 
-### Getting started continued:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Made at HashHacks 5.0 at Convoke CIC
