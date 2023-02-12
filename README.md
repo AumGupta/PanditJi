@@ -12,6 +12,9 @@ Download the [latest](https://github.com/AumGupta/PanditJi/releases/latest) rele
 
 [![Demo](https://img.youtube.com/vi/-TzyAkzPVPM/0.jpg)](https://www.youtube.com/watch?v=-TzyAkzPVPM)
 
+## Presentation
+https://www.canva.com/design/DAFaMBkt67I/mud6dnOU-54O3o38P3PtLA/view
+
 ## Repository for the backend API
 
 https://github.com/manav2511/panditji_backend/
